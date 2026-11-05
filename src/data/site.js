@@ -31,7 +31,7 @@ export const formatPhone = (phone) =>
 
 // TODO (pendiente): reemplazar por los perfiles reales del negocio.
 export const SOCIALS = [
-  { id: "facebook", label: "Facebook", href: "https://www.facebook.com/" },
+  { id: "facebook", label: "Facebook", href: "https://www.facebook.com/p/Polleria-Galpóncito-a-la-Leña-100063547390176/?locale=es_LA" },
   { id: "instagram", label: "Instagram", href: "https://www.instagram.com/" },
 ];
 
